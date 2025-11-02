@@ -17,9 +17,9 @@ Nous construisons un écosystème ouvert où les événements, les visuels et le
 
 | Projet | Description | Domaine |
 |:--------|:-------------|:---------|
-| [action.quebec]([https://action.quebec](https://github.com/action-quebec/action-quebec.github.io)) | Portail principal des événements et actualités indépendantistes au Québec. | `action.quebec` |
-| [images.action.quebec]([https://images.action.quebec](https://github.com/action-quebec/images-action-quebec)) | Hébergement et proxy d’images libre pour les projets du réseau Action Québec. | `images.action.quebec` |
-| [partage.action.quebec]([https://partage.action.quebec](https://github.com/action-quebec/partage-action-quebec)) | Plateforme de partage simplifié pour les événements et publications du mouvement. | `partage.action.quebec` |
+| [action.quebec](https://github.com/action-quebec/action-quebec.github.io) | Portail principal des événements et actualités indépendantistes au Québec. | `action.quebec` |
+| [images.action.quebec](https://github.com/action-quebec/images-action-quebec) | Hébergement et proxy d’images libre pour les projets du réseau Action Québec. | `images.action.quebec` |
+| [partage.action.quebec](https://github.com/action-quebec/partage-action-quebec) | Plateforme de partage simplifié pour les événements et publications du mouvement. | `partage.action.quebec` |
 
 ---
 
