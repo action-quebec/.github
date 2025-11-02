@@ -40,7 +40,7 @@ Les contributions sont bienvenues, qu’il s’agisse de code, de design ou de d
 2. Créez une branche (`feature/ma-fonction`)
 3. Envoyez une pull request
 
-> Vous pouvez aussi proposer des idées via [action.quebec](https://action.quebec) ou par courriel.
+> Vous pouvez aussi proposer des idées via [action.quebec](https://action.quebec) ou par [courriel](mailto:info@action.quebec).
 
 ---
 
